@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7ee;
+    overflow: auto;
+    font-size: 25px;
+     background-image: url("https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");}
+nav ul {
+    list-style-type: none;
+    text-align: end;
+}
+
+nav ul li {
+    display: inline;
+    text-align: center;
+    margin-right: 20px;
+}
+nav ul li a {
+    
+    text-decoration: none;
+    color: #000000;
+}
+#center{
+    padding: 230px; 
+    text-align: center; 
+  font-size: xx-large;
+}
+
+
+
